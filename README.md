@@ -7,7 +7,7 @@ I'm **Manokamna** – a passionate developer dedicated to building impactful sof
 - 🌱 I'm continuously learning **new technologies** and best practices
 - 👯 I'm open to **collaborating** on interesting and meaningful projects
 - 💬 Ask me about **web development, software engineering, or tech innovations**
-- 📫 How to reach me: **[GitHub Issues](https://github.com/manokamna224)** | **Email: [your-email]**
+- 📫 How to reach me: **[GitHub Issues](https://github.com/manokamna224)** | **Email: manokamna8093@gmail.com**
 - ⚡ Fun fact: I love **clean code and elegant solutions**
 
 ## 🛠️ Tech Stack
