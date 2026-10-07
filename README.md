@@ -1,6 +1,6 @@
 # Hi, I'm Manokamna 👋
 
-I’m a software developer focused on building practical, scalable, and user-centric applications. I enjoy turning ideas into real-world products with clean architecture, efficient code, and thoughtful user experiences.
+I'm a software developer focused on building practical, scalable, and user-centric applications. I enjoy turning ideas into real-world products with clean architecture, efficient code, and thoughtful user experiences.
 
 ## About Me
 - Software Developer with interest in full-stack development, data engineering, and Android application development
@@ -11,22 +11,40 @@ I’m a software developer focused on building practical, scalable, and user-cen
 
 ## Featured Projects
 
-### Sales Data Pipeline
-A data engineering project built using Python, Pandas, NumPy, PySpark, and scikit-learn for end-to-end sales data processing and revenue prediction.
+### Bill Generator ⭐
+A 100% static, vanilla web application designed for small shopkeepers to generate professional bills and invoices.
 
-- Data cleaning and preprocessing
-- Feature engineering and analytics
-- CSV and Parquet output generation
-- Machine learning-based sales forecasting
+**Features:**
+- No dependencies, no build step, no backend — works offline after initial load
+- Toggle between handwritten and computerized bill styles
+- Handwritten rendering with realistic character placement and variation
+- Print to PDF/PNG, saves data in browser localStorage
+- Indian currency support with amount-in-words conversion
+- Auto-increment bill numbers and persistent shop information
+
+**Tech Stack:** Vanilla JavaScript, SVG rendering, CSS, localStorage
+Repository: [bill-generator](https://github.com/manokamna224/bill-generator)
+
+### Sales Data Pipeline
+A comprehensive data engineering project built with Python for end-to-end sales data processing and revenue prediction.
+
+**Features:**
+- Data cleaning and preprocessing using Pandas
+- Statistical calculations with NumPy
+- Scalable processing with PySpark
+- Machine learning-based revenue forecasting with scikit-learn
+- Handles 1000+ records with nulls and duplicates
+- Output in CSV and Parquet formats
 
 Repository: [Sales-datapipeline](https://github.com/manokamna224/Sales-datapipeline)
 
 ### BLEChatForAndroid
-A Bluetooth-based Android chat application designed for communication without requiring internet access.
+A Bluetooth-based Android chat application for offline wireless communication without internet access.
 
-- Android app development in Java
-- Local wireless communication via Bluetooth
-- Lightweight and practical communication solution
+**Features:**
+- Local communication via Bluetooth Low Energy (BLE)
+- No internet required
+- Lightweight and practical solution for nearby device communication
 
 Repository: [BLEChatForAndroid](https://github.com/manokamna224/BLEChatForAndroid)
 
@@ -36,7 +54,7 @@ A web-based dashboard project focused on data visualization and streamlined repo
 Repository: [Dashboard](https://github.com/manokamna224/Dashboard)
 
 ### LinkVault
-A project related to saving and organizing useful links in a structured and accessible format.
+A project for saving, organizing, and managing useful links in a structured format.
 
 Repository: [linkvault](https://github.com/manokamna224/linkvault)
 
@@ -75,8 +93,8 @@ Repository: [linkvault](https://github.com/manokamna224/linkvault)
 - Email: [manokamna8093@gmail.com](mailto:manokamna8093@gmail.com)
 - LinkedIn: [Connect with me](https://linkedin.com/in/yourprofile)
 
-> I’m always eager to learn, build, and collaborate on projects that make an impact.
+> I'm always eager to learn, build, and collaborate on projects that make an impact.
 
 ---
 
-Thanks for visiting my profile. Let’s build something meaningful together.
+Thanks for visiting my profile. Let's build something meaningful together.
